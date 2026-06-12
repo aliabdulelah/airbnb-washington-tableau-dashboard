@@ -8,8 +8,7 @@ Tableau dashboard analysing Airbnb listing data for Washington, USA (2016) to id
 
 ## Dashboard preview
 
-![Airbnb Dashboard Overview](<img width="1500" height="1000" alt="DSC8396-1500x1000" src="https://github.com/user-attachments/assets/cf301b9a-ec7c-4b73-ac7c-fcec8abbc334" />
-)
+![Airbnb Dashboard Overview](https://github.com/user-attachments/assets/cf301b9a-ec7c-4b73-ac7c-fcec8abbc334)
 
 ---
 
