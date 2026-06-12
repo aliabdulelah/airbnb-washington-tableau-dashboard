@@ -8,7 +8,7 @@ Tableau dashboard analysing Airbnb listing data for Washington, USA (2016) to id
 
 ## Dashboard preview
 
-![Airbnb Dashboard Overview](screenshots/dashboard-overview.jpg)
+![Airbnb Dashboard Overview](https://hatchetresort.com/rooms/suites/)
 
 ---
 
